@@ -1,0 +1,26 @@
+section{
+  &#error-404{
+    margin-top:5%;
+    margin-bottom: 75px;
+    h1{
+      margin-bottom:30px;
+    }
+    .e1{
+      font-size: 5em;
+      margin-top:-20px;
+      margin-bottom:1px;
+    }
+    .e4{
+      #search-form{
+        width:100%;
+        input[type='search']{
+          background-color: $color__background-pre;
+        }
+        .btn{
+          background-color: $color__company-secondary;
+        }
+      }
+    }
+  }
+}
+
